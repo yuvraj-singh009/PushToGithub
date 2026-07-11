@@ -197,3 +197,21 @@ git push
 
 **Author:** Yuvraj Singh
 **Purpose:** Personal reference / explainer for pushing code to GitHub via VS Code terminal
+
+```bash
+still not got it ?
+
+just follow these commands 
+cd my-project
+git init
+git auth login (first time only)
+
+gh repo create repo-name --public --source=. --remote=origin
+
+
+#uploading first time
+git add app.py
+git commit -m "Add FastAPI backend"
+git branch -M main
+git push -u origin main
+```
