@@ -197,11 +197,3 @@ git push
 
 **Author:** Yuvraj Singh
 **Purpose:** Personal reference / explainer for pushing code to GitHub via VS Code terminal
-
-
-
-
-#uploading next time
-git add dockerfile
-git commit -m "Add Dockerfile"
-git push
