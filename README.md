@@ -198,6 +198,7 @@ git push
 **Author:** Yuvraj Singh
 **Purpose:** Personal reference / explainer for pushing code to GitHub via VS Code terminal
 
+<<<<<<< HEAD
 ```markdown
 still not got it ?
 
@@ -215,3 +216,12 @@ git commit -m "Add FastAPI backend"
 git branch -M main
 git push -u origin main
 ```
+=======
+
+
+
+#uploading next time
+git add dockerfile
+git commit -m "Add Dockerfile"
+git push
+>>>>>>> 426e64736cad3f72783f2f060fafcd163c95824b
