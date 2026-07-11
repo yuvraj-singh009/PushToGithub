@@ -35,8 +35,8 @@ Follow the prompts:
 5. Paste it in the browser window that opens
 
 <!-- 📸 SCREENSHOT: gh auth login terminal output -->
-![GitHub CLI Login](screenshots\gh-auth-login.png)
-![GitHub CLI Connected](screenshots\githubconnected.png)
+![GitHub CLI Login](screenshots/gh-auth-login.pnggh-auth-login.png)
+![GitHub CLI Connected](screenshots/githubconnected.png)
 
 
 ---
