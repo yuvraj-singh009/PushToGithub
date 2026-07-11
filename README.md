@@ -35,7 +35,7 @@ Follow the prompts:
 5. Paste it in the browser window that opens
 
 <!-- 📸 SCREENSHOT: gh auth login terminal output -->
-![GitHub CLI Login](screenshots/gh-auth-login.pnggh-auth-login.png)
+![GitHub CLI Login](screenshots/gh-auth-login.png)
 ![GitHub CLI Connected](screenshots/githubconnected.png)
 
 
@@ -79,7 +79,7 @@ gh repo create YOUR_REPO_NAME --public --source=. --remote=origin
 > Use `--private` instead of `--public` for a private repo.
 
 <!-- 📸 SCREENSHOT: repo created confirmation -->
-![Repo Created](screenshots\repo-created.png)
+![Repo Created](screenshots/repo-created.png)
 
 ---
 
@@ -95,7 +95,7 @@ git push -u origin main
 > `git branch -M main` and `-u origin main` are only needed on the **first push**.
 
 <!-- 📸 SCREENSHOT: first push success -->
-![First Push](screenshots\push.png)
+![First Push](screenshots/push.png)
 
 ---
 
@@ -110,7 +110,7 @@ git push
 ```
 
 <!-- 📸 SCREENSHOT: subsequent push -->
-![Subsequent Push](screenshots\subsequent-push.png)
+![Subsequent Push](screenshots/subsequent-push.png)
 
 ---
 
