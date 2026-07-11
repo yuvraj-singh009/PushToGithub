@@ -198,7 +198,7 @@ git push
 **Author:** Yuvraj Singh
 **Purpose:** Personal reference / explainer for pushing code to GitHub via VS Code terminal
 
-```bash
+```markdown
 still not got it ?
 
 just follow these commands 
